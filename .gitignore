@@ -1,0 +1,32 @@
+# Hugo build output
+plus_website-master/public/
+plus_website-master/resources/_gen/
+plus_website-master/resources/
+
+# Hugo cache
+plus_website-master/.hugo_build.lock
+
+# Hugo installation files
+*.tar.gz
+hugo_extended_*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# R project files
+*.Rproj.user
+.Rproj.user/
+.Rhistory
+.RData
+
+# Temporary files
+*.tmp
+*.bak
