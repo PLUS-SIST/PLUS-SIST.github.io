@@ -57,7 +57,7 @@ subtitle = ""
 <!-- :triangular_flag_on_post: Our group at ShanghaiTech University is recruiting **Post-Docs.** -->
 
 <!-- {{< icon name="flag" pack="fas" >}}  -->
-:triangular_flag_on_post: Our group is also recruiting top-caliber graduate students with strong expertise in **computer vision** and **machine learning** for 2023. Please send email to [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/) for more information after registering your application on the [school website](http://sist.shanghaitech.edu.cn/).
+:triangular_flag_on_post: Our group is also recruiting top-caliber graduate students with strong expertise in **computer vision** and **machine learning** for 2026. Please send email to [Prof. Xuming He](https://faculty.sist.shanghaitech.edu.cn/faculty/hexm/) for more information after registering your application on the [school website](http://sist.shanghaitech.edu.cn/).
 
 <!-- 
 Welcome to the **personal demo** of Academic. Other demos available include:
