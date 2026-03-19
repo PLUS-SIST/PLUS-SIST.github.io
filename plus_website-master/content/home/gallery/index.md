@@ -81,8 +81,8 @@ subtitle = ""
   <div class="year-section">
     <h2 class="year-title">2025</h2>
     <div class="gallery-grid">
-      <a href="gallery/gallery/2025_graduate.jpg" data-fancybox="gallery-2025" class="gallery-item">
-        <img src="gallery/gallery/2025_graduate.jpg" alt="2025 Graduation">
+      <a href="gallery/2025_graduate.jpg" data-fancybox="gallery-2025" class="gallery-item">
+        <img src="gallery/2025_graduate.jpg" alt="2025 Graduation">
       </a>
     </div>
   </div>
@@ -91,11 +91,11 @@ subtitle = ""
   <div class="year-section">
     <h2 class="year-title">2024</h2>
     <div class="gallery-grid">
-      <a href="gallery/gallery/2024_graduate.jpg" data-fancybox="gallery-2024" class="gallery-item">
-        <img src="gallery/gallery/2024_graduate.jpg" alt="2024 Graduation">
+      <a href="gallery/2024_graduate.jpg" data-fancybox="gallery-2024" class="gallery-item">
+        <img src="gallery/2024_graduate.jpg" alt="2024 Graduation">
       </a>
-      <a href="gallery/gallery/2024_graduate_2.jpg" data-fancybox="gallery-2024" class="gallery-item">
-        <img src="gallery/gallery/2024_graduate_2.jpg" alt="2024 Graduation">
+      <a href="gallery/2024_graduate_2.jpg" data-fancybox="gallery-2024" class="gallery-item">
+        <img src="gallery/2024_graduate_2.jpg" alt="2024 Graduation">
       </a>
     </div>
   </div>
@@ -104,8 +104,8 @@ subtitle = ""
   <div class="year-section">
     <h2 class="year-title">2023</h2>
     <div class="gallery-grid">
-      <a href="gallery/gallery/2023_travel.jpg" data-fancybox="gallery-2023" class="gallery-item">
-        <img src="gallery/gallery/2023_travel.jpg" alt="2023 Travel">
+      <a href="gallery/2023_travel.jpg" data-fancybox="gallery-2023" class="gallery-item">
+        <img src="gallery/2023_travel.jpg" alt="2023 Travel">
       </a>
     </div>
   </div>
@@ -114,11 +114,11 @@ subtitle = ""
   <div class="year-section">
     <h2 class="year-title">2021</h2>
     <div class="gallery-grid">
-      <a href="gallery/gallery/2021_graduate.jpg" data-fancybox="gallery-2021" class="gallery-item">
-        <img src="gallery/gallery/2021_graduate.jpg" alt="2021 Graduation">
+      <a href="gallery/2021_graduate.jpg" data-fancybox="gallery-2021" class="gallery-item">
+        <img src="gallery/2021_graduate.jpg" alt="2021 Graduation">
       </a>
-      <a href="gallery/gallery/2021_tralver.jpg" data-fancybox="gallery-2021" class="gallery-item">
-        <img src="gallery/gallery/2021_tralver.jpg" alt="2021 Travel">
+      <a href="gallery/2021_tralver.jpg" data-fancybox="gallery-2021" class="gallery-item">
+        <img src="gallery/2021_tralver.jpg" alt="2021 Travel">
       </a>
     </div>
   </div>
@@ -127,8 +127,8 @@ subtitle = ""
   <div class="year-section">
     <h2 class="year-title">2019</h2>
     <div class="gallery-grid">
-      <a href="gallery/gallery/plus_member_2019.jpg" data-fancybox="gallery-2019" class="gallery-item">
-        <img src="gallery/gallery/plus_member_2019.jpg" alt="PLUS Members 2019">
+      <a href="gallery/plus_member_2019.jpg" data-fancybox="gallery-2019" class="gallery-item">
+        <img src="gallery/plus_member_2019.jpg" alt="PLUS Members 2019">
       </a>
     </div>
   </div>
