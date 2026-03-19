@@ -74,27 +74,25 @@ subtitle = ""
 :newspaper_roll:
 
 :page_facing_up: -->
+:pushpin: [02/2026][Two papers](publication/) accepted by CVPR 2026!
+
+:pushpin: [01/2026][One paper](publication/) accepted by ICLR 2026!
+
+:pushpin: [9/2025][Two papers](publication/) accepted by NeurIPS 2025!
+
+:pushpin: [12/2024][One paper](publication/) accepted by AAAI 2025!
+
+:pushpin: [12/2024][One paper](publication/) accepted by TMLR 2025!
+
+:pushpin: [10/2024][One paper](publication/) accepted by 3DV 2025!
+
 :pushpin: [03/2024][Two papers](publication/) accepted by CVPR 2024!
 
-:pushpin: [03/2024][One papers](publication/) accepted by ICLR 2024!
+:pushpin: [02/2024][One paper](publication/) accepted by IJCAI 2024!
 
-:pushpin: [03/2024][One papers](publication/) accepted by Neurips 2024!
+:pushpin: [01/2024][One paper](publication/) accepted by AAAI 2024!
 
 :pushpin: [12/2023][One paper](publication/) accepted by TPAMI 2023!
-
-:pushpin: [06/2022][One paper](publication/) accepted by TMLR 2023!
-
-:pushpin: [06/2022][Two papers](publication/) accepted by ICCV 2023!
-
-:pushpin: [06/2022][One paper](publication/) accepted by IJCAI 2023!
-
-:pushpin: [06/2022][One paper](publication/) accepted by CVPR 2023!
-
-:pushpin: [06/2022][Two papers](publication/) accepted by ICLR 2023!
-
-:pushpin: [06/2022][One paper](publication/) accepted by AAAI 2023!
-
-:pushpin: [06/2022][One paper](publication/) accepted by FG 2023 as **Best Student Paper**!
 
 <!-- :pushpin: [06/2022][One paper](publication/) accepted by ECCV 2022!
 
