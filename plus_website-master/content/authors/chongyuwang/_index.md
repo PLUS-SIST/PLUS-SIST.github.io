@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Peiyan Gu
+title: Chongyu Wang
 
 # Username (this should match the folder name)
 authors:
-- peiyangu
+- chongyuwang
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,33 +18,32 @@ organizations:
   url: "https://www.shanghaitech.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include learning with open world learning, generalized category discovery, and continual learning
+bio: My research interests include multimodal large language models, new environment adaptation, and GUI agent technologies.
 interests:
-- Open world learning
-- Generalized Category Discovery
+- Multimodal Large Language Models
+- New Environment Adaptation for Intelligent Agents
+- GUI Agent Design and Optimization
 
 education:
   courses:
   - course: Master Program in Computer Science
     institution: ShanghaiTech University
-    year: 2023.9 - 2026.7
+    year: 2024.9 - 2027.7
   - course: BSc in Computer Science
     institution: ShanghaiTech Univeristy
-    year: 2019.9 - 2023.6
+    year: 2020.9 - 2024.6
 
 social:
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=XI8UTewAAAAJ&hl=en
+- icon: link
+  icon_pack: fas
+  link: 'https://sist-wangchongyu.github.io/'  
 - icon: github
   icon_pack: fab
-  link: https://github.com/algpy
-- icon: envelope
-  icon_pack: fas
-  link: "mailto:gupy2023@shanghaitech.edu.cn"
+  link: https://github.com/SIST-wangchongyu
+
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "gupy2023@shanghaitech.edu.cn"
+email: "wangchy12024@shanghaitech.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.

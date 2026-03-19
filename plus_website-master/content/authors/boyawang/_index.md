@@ -1,16 +1,16 @@
 ---
 # Display name
-title: Chuyu Zhang
+title: Boya Wang
 
 # Username (this should match the folder name)
 authors:
-- chuyuzhang
+- boyaw
 
 # Is this the primary user of the site?
 superuser: false
 
 # Role/position
-role: Tencent
+role: PhD Students
 
 # Organizations/Affiliations
 organizations:
@@ -18,22 +18,21 @@ organizations:
   url: "https://www.shanghaitech.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include semi-supervised learning, interactive segmentation, and Open-world learning.
+bio: My current research interests include CV tasks, multi-modal and VLM.
 
 interests:
-- Semi-supervised Learning
-- Interactive segmentation
-- Open-world learning
+- CV tasks
+- multi-modal
+
 
 education:
   courses:
   - course: PhD Program in Computer Science
     institution: ShanghaiTech University
-    year: 2020.9 - 2025.7
-  - course: BSc in Electronic Engineering
-    institution: Wuhan Univeristy
-    year: 2016.9 - 2020.6
-
+    year: 2025.9 - 2028.7
+  - course: BSc in Computer Science
+    institution: UNNC
+    year: 2017.9 - 2021.7
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
@@ -41,16 +40,10 @@ education:
 social:
 - icon: link
   icon_pack: fas
-  link: 'https://kleinzcy.github.io/'  # For a direct email link, use "mailto:test@example.org".
-- icon: zhihu
-  icon_pack: fab
-  link: https://www.zhihu.com/people/zhang-chu-yu-60-71
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.com/citations?user=V7IktkcAAAAJ&hl=zh-CN
+  link: 'https://doddodod.github.io/'  # For a direct email link, use "mailto:test@example.org".
 - icon: github
   icon_pack: fab
-  link: https://github.com/kleinzcy
+  link: https://github.com/doddodod
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -58,12 +51,12 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "zhangchy2@shanghaitech.edu.cn"
+email: "wangby2025@shanghaitech.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- PhD Students
 ---
 
-I am working at **Tencent**. I graduated as a PhD student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from Wuhan University.
+I am the first-year PhD student at ShanghaiTech PLUS Group.

@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student
+role: EPFL
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ email: "gaozht@shanghaitech.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 
-I am the Master student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from ShanghaiTech University.
+I am now studying at **EPFL**. I graduated as a Master student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from ShanghaiTech University.

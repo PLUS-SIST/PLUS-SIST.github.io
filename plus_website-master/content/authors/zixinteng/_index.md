@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Peiyan Gu
+title: Zixin Teng
 
 # Username (this should match the folder name)
 authors:
-- peiyangu
+- zixinteng
 
 # Is this the primary user of the site?
 superuser: false
@@ -18,33 +18,37 @@ organizations:
   url: "https://www.shanghaitech.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include learning with open world learning, generalized category discovery, and continual learning
+bio: I focus on Continuous Adaptation of Visual Models in the Open World. My research interests include Open-world Learning, Generalized Category Discovery, Self-supervised Learning, Domain Adaptation and Generalization.
 interests:
-- Open world learning
+- Open-world Learning
 - Generalized Category Discovery
+- Domain Adaptation and Generalization
 
 education:
   courses:
   - course: Master Program in Computer Science
     institution: ShanghaiTech University
-    year: 2023.9 - 2026.7
+    year: 2025.9 - 2028.7
   - course: BSc in Computer Science
     institution: ShanghaiTech Univeristy
-    year: 2019.9 - 2023.6
+    year: 2021.9 - 2025.6
 
 social:
+- icon: link
+  icon_pack: fas
+  link: https://orcid.org/0009-0009-2699-6743
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=XI8UTewAAAAJ&hl=en
+  link: https://scholar.google.com/citations?user=fbc2YG8AAAAJ&hl=zh-CN&oi=ao
 - icon: github
   icon_pack: fab
-  link: https://github.com/algpy
+  link: https://github.com/T1-Edward
 - icon: envelope
   icon_pack: fas
-  link: "mailto:gupy2023@shanghaitech.edu.cn"
+  link: "mailto:tengzx2025@shanghaitech.edu.cn"
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: "gupy2023@shanghaitech.edu.cn"
+email: "tengzx2025@shanghaitech.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -52,4 +56,4 @@ user_groups:
 - Master Students
 ---
 
-I am the Master student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from ShanghaiTech University.
+I am a Master student at ShanghaiTech PLUS Group, advised by Prof.**Xuming He**. I received my undergraduate degree from ShanghaiTech University in 2025.

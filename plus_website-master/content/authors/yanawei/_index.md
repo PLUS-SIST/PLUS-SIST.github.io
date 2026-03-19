@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student
+role: Johns Hopkins University
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ email: "v-weiyn@shanghaitech.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- Alumni
 ---
 
-I am the Master student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from Shandong University.
+I am now studying at **Johns Hopkins University**. I graduated as a Master student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from Shandong University.

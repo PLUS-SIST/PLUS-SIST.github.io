@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: PhD Students
+role: Tencent
 
 # Organizations/Affiliations
 organizations:
@@ -57,8 +57,8 @@ email: "lirj2@shanghaitech.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- PhD Students
+- Alumni
 ---
 
-I am the final-year PhD student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from Northeastern University(China). I have also spent time as research intern at **YITU Healthcare** and **Shanghai AI Laboratory**.
+I am working at **Tencent**. I graduated as a PhD student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from Northeastern University(China). I have also spent time as research intern at **YITU Healthcare** and **Shanghai AI Laboratory**.
 
