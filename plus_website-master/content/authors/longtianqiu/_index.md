@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Students
+role: PhD Students
 
 # Organizations/Affiliations
 organizations:
@@ -63,7 +63,7 @@ email: "qiult@shanghaitech.edu.cn"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Master Students
+- PhD Students
 ---
 
-I am the master student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from ShanghaiTech University. I have also spent time as research intern at **Tencent Youtu Lab** and **Shanghai AI Laboratory**.
+I am the fourth-year PhD student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from ShanghaiTech University. I have also spent time as research intern at **Tencent Youtu Lab** and **Shanghai AI Laboratory**.
