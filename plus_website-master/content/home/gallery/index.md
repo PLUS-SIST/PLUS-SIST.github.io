@@ -100,12 +100,12 @@ subtitle = ""
     </div>
   </div>
 
-  <!-- 2023 Section -->
+  <!-- 2022 Section -->
   <div class="year-section">
-    <h2 class="year-title">2023</h2>
+    <h2 class="year-title">2022</h2>
     <div class="gallery-grid">
-      <a href="/gallery/2023_travel.jpg" data-fancybox="gallery-2023" class="gallery-item">
-        <img src="/gallery/2023_travel.jpg" alt="2023 Travel">
+      <a href="/gallery/2022_travel.jpg" data-fancybox="gallery-2022" class="gallery-item">
+        <img src="/gallery/2022_travel.jpg" alt="2022 Travel">
       </a>
     </div>
   </div>
