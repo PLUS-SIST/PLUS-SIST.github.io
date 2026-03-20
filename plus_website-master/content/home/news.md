@@ -74,7 +74,7 @@ subtitle = ""
 :newspaper_roll:
 
 :page_facing_up: -->
-:pushpin: [02/2026][Two papers](publication/) accepted by CVPR 2026!
+:pushpin: [02/2026][Three papers](publication/) accepted by CVPR 2026!
 
 :pushpin: [01/2026][One paper](publication/) accepted by ICLR 2026!
 
@@ -82,7 +82,7 @@ subtitle = ""
 
 :pushpin: [12/2024][One paper](publication/) accepted by AAAI 2025!
 
-:pushpin: [12/2024][One paper](publication/) accepted by TMLR 2025!
+:pushpin: [12/2025][One paper](publication/) accepted by TMLR 2025!
 
 :pushpin: [10/2024][One paper](publication/) accepted by 3DV 2025!
 
