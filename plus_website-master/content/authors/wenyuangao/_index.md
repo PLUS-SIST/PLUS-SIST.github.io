@@ -18,18 +18,17 @@ organizations:
   url: "https://www.shanghaitech.edu.cn/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include approximate inference, image understanding and multimodal learning.
+bio: My research interests include 3D reconstruction and motion generation.
 
 interests:
-- Approximate Inference
-- Image Understanding
-- Multimodal Learning
+- 3D Reconstruction
+- Motion Generation
 
 education:
   courses:
-  - course: Master Program in Computer Science
+  - course: PhD Program in Computer Science
     institution: ShanghaiTech University
-    year: 2021.9 - 2024.7
+    year: 2023.9 - 2027.6
   - course: BSc in Intelligence Science and Technology
     institution: South China University of Technology
     year: 2014.9 - 2018.6
@@ -55,5 +54,4 @@ user_groups:
 - PhD Students
 ---
 
-I am a first-year PhD student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from South China University of Technology.
-
+I am a PhD student at ShanghaiTech PLUS Group, advised by Xuming He. I received my undergraduate degree from South China University of Technology.
