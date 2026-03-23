@@ -78,11 +78,11 @@ subtitle = ""
 
 :pushpin: [01/2026][One paper](publication/) accepted by ICLR 2026!
 
+:pushpin: [12/2025][One paper](publication/) accepted by TMLR 2025!
+
 :pushpin: [9/2025][Two papers](publication/) accepted by NeurIPS 2025!
 
 :pushpin: [12/2024][One paper](publication/) accepted by AAAI 2025!
-
-:pushpin: [12/2025][One paper](publication/) accepted by TMLR 2025!
 
 :pushpin: [10/2024][One paper](publication/) accepted by 3DV 2025!
 

@@ -21,8 +21,9 @@ organizations:
 bio: My current research interests include CV tasks, multi-modal and VLM.
 
 interests:
-- CV tasks
-- multi-modal
+- Scene Understanding
+- Efficient Learning
+- Multimodal Large Language Model
 
 
 education:
