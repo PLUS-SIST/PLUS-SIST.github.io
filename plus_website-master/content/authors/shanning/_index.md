@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Phd Student
+role: PhD Student
 
 # Organizations/Affiliations
 organizations:
@@ -67,3 +67,4 @@ user_groups:
 ---
 
 I am the fourth-year Phd student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from ShanghaiTech University.
+s
