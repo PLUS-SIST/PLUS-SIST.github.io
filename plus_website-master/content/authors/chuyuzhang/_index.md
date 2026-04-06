@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Tencent
+role: Meituan
 
 # Organizations/Affiliations
 organizations:
