@@ -66,4 +66,4 @@ user_groups:
 - Alumni
 ---
 
-I am working at **Tencent**. I graduated as a PhD student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from Wuhan University.
+I am working at **Meituan**. I graduated as a PhD student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from Wuhan University.
