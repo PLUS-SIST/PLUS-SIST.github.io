@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student
+role: Phd Student
 
 # Organizations/Affiliations
 organizations:
@@ -66,4 +66,4 @@ user_groups:
 - PhD Students
 ---
 
-I am the second-year Master student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from ShanghaiTech University.
+I am the fourth-year Phd student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from ShanghaiTech University.
