@@ -41,7 +41,9 @@ email: "luhzh2025@shanghaitech.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups: []
+user_groups:
+- PhD Students
+
 ---
 
 I am the direct PhD student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from Jimei University. I participated in an exchange program with the University of Cambridge and served as an AI Research Intern at **BGI**.
