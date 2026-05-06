@@ -62,8 +62,7 @@ email: "zhangchy2@shanghaitech.edu.cn"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
-user_groups:
-- Alumni
+user_groups: []
 ---
 
 I am working at **Meituan**. I graduated as a PhD student at ShanghaiTech PLUS Group, advised by **Xuming He**. I received my undergraduate degree from Wuhan University.
